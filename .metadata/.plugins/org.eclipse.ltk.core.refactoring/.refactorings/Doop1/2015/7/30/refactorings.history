@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move package &apos;com.hadoop.koushik.wordcount&apos; to &apos;WordCountHadoop/src&apos;&#x0D;&#x0A;- Original project: &apos;Doop&apos;&#x0D;&#x0A;- Destination element: &apos;WordCountHadoop/src&apos;&#x0D;&#x0A;- Original element: &apos;Doop/src/com.hadoop.koushik.wordcount&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=WordCountHadoop/src" element1="/src&lt;com.hadoop.koushik.wordcount" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1437326739749" version="1.0"/>
-</session>

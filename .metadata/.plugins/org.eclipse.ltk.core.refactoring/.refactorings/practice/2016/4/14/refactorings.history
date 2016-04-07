@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;customPartitioner.inversePartitioner&apos; to &apos;InversePartitioner&apos;&#x0D;&#x0A;- Original project: &apos;practice&apos;&#x0D;&#x0A;- Original element: &apos;customPartitioner.inversePartitioner&apos;&#x0D;&#x0A;- Renamed element: &apos;customPartitioner.InversePartitioner&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;inversePartitioner&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;customPartitioner{inversePartitioner.java[inversePartitioner" matchStrategy="1" name="InversePartitioner" qualified="false" references="true" similarDeclarations="false" stamp="1459617374784" textual="false" version="1.0"/>
-</session>
