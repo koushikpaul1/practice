@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;WordCountHadoop&apos; to &apos;Basic&apos;&#x0D;&#x0A;- Original element: &apos;WordCountHadoop&apos;&#x0D;&#x0A;- Renamed element: &apos;WordCountHadoop&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;WordCountHadoop&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=WordCountHadoop" name="Basic" references="true" stamp="1452351291449" version="1.0"/>
+</session>
